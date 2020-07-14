@@ -2,7 +2,7 @@
 
 "Readme"
 
-Credits By Kirey Na,
+Implementation Of Go To Forest Game :
 
 Now we will start how to make the Go To Forest Game, which is a little concept needed
 
